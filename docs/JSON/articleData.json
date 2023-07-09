@@ -31,5 +31,17 @@
     "img":"pics/vue.png",
     "isShow":true,
     "textSummary": "组件通讯，未完待续。。。"
+  },
+  {
+    "id": "other1",
+    "title": "Vue router动态路由遇到的两个问题",
+    "type":"Other",
+    "time": "2023-07-05",
+    "link": "/other1",
+    "tags":["other","vue"],
+    "img":"pics/github.png",
+    "isShow":true,
+    "textSummary": "两个经常会遇到的问题"
   }
+
 ]}
