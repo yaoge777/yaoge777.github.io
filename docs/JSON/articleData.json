@@ -42,6 +42,19 @@
     "img":"pics/github.png",
     "isShow":true,
     "textSummary": "两个经常会遇到的问题"
+  },
+
+  {
+    "id": "vue2",
+    "title": "Vue3插槽",
+    "type":"Vue",
+    "time": "2023-07-10",
+    "link": "/vue2",
+    "tags":["vue"],
+    "img":"pics/vue.png",
+    "isShow":true,
+    "textSummary": "vue3插槽详解，配element-plus源码解析"
   }
+
 
 ]}
